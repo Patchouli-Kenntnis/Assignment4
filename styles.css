@@ -1,0 +1,36 @@
+* {
+    background-color: #3c3c3c;
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button {
+    width: 80px;
+    height: 50px;
+    font-size: large;
+    background-color: #6f6f6f;
+    border-style: none;
+}
+
+button:hover {
+    background-color: midnightblue;
+}
+
+.btnRow {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#lastOperand {
+    font-size: large;
+    color: gainsboro;
+}
+
+#operator {
+    font-size: large;
+    color: gainsboro;
+}
+
+#currentOperand {
+    font-size: larger;
+}
